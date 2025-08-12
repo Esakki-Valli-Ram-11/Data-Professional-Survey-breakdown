@@ -1,10 +1,10 @@
-📊 Data Professional Survey – Power BI Dashboard
-📌 Project Overview
+#Data Professional Survey – Power BI Dashboard
+Project Overview
 This project analyzes survey data from 630 data professionals across various industries, exploring their roles, salaries, preferred programming languages, job satisfaction, and career challenges.
 
 The dashboard was built in Power BI, using the Transform Data feature for data cleaning and preparation.
 
-🛠️ Tech Stack & Skills Used
+#Tech Stack & Skills Used
 Power BI – Data cleaning, transformation, and visualization
 
 Transform Data – Removing nulls, standardizing values, formatting fields
@@ -13,7 +13,7 @@ Data Visualization – Interactive charts, slicers, and KPIs for insights
 
 Analytical Skills – Identifying trends and patterns in survey responses
 
-📂 Dataset
+#Dataset
 The dataset comes from a survey of 630 data professionals and contains the following columns:
 
 Unique ID – Respondent identifier
@@ -62,7 +62,7 @@ Q12 – Highest level of education
 
 Q13 – Ethnicity
 
-📈 Dashboard Highlights
+#Dashboard Highlights
 Salary Distribution by role, country, and experience
 
 Programming Language Popularity among respondents
@@ -71,14 +71,14 @@ Job Satisfaction across salary, work-life balance, and management
 
 Career Path Insights – Switching into data, difficulty breaking in, and desired job benefits
 
-🚀 How to Use
+#How to Use
 Download the .pbix file from this repository
 
 Open it in Power BI Desktop
 
 Interact with the slicers and filters to explore insights
 
-📸 Dashboard Preview
+#Dashboard Preview
 <img width="1324" height="731" alt="image" src="https://github.com/user-attachments/assets/9086e215-3c04-414e-84b3-49a355be9d49" />
 
 
